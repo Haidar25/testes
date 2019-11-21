@@ -79,15 +79,15 @@
                  <div class="col-md-12">
                                 <a href="{{ url('/login/twitter') }}" class="btn btn-twitter">
                                 <i class="fa fa-twitter"></i>
-                                Sign up with Twitter
+                                Masuk dengan Twitter
                                 </a>
                                 <a href="{{ url('/login/github') }}" class="btn btn-github">
                                 <i class="fa fa-github"></i>
-                                Sign up with Github
+                                Masuk dengan Github
                                 </a>
                                 <a href="{{ url('/login/google') }}" class="btn btn-google">
                                 <i class="fa fa-google"></i>
-                                Sign up with Google
+                                Masuk dengan Google
                                    
                     </a>
                 </div>
